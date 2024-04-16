@@ -10,6 +10,7 @@ export default function Hero() {
           alt="An image showing An"
           width={300}
           height={300}
+          priority={true}
         />
       </div>
       <h1>Hi, I&apos;m An</h1>
