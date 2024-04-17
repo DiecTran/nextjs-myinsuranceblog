@@ -14,11 +14,9 @@ export default function Hero() {
           priority={true}
         />
       </div>
-      <h1>
-        Hi, I&apos;m An - Insurance Broker - Full Stack Web & Mobile App
-        Developer{" "}
-      </h1>
-      <p>I blog about web development - Full Stack Web App</p>
+      <h1>Hi, I&apos;m An</h1>
+      <h2>Insurance Broker And Full Stack Web Developer</h2>
+      <p>I blog about property and business insurance</p>
     </section>
   );
 }
