@@ -14,7 +14,10 @@ export default function Hero() {
           priority={true}
         />
       </div>
-      <h1>Hi, I&apos;m An</h1>
+      <h1>
+        Hi, I&apos;m An - Insurance Broker - Full Stack Web & Mobile App
+        Developer{" "}
+      </h1>
       <p>I blog about web development - Full Stack Web App</p>
     </section>
   );
