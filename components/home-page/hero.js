@@ -6,7 +6,7 @@ export default function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src="/images/mastering-js-thumb.png"
+          src="/images/an-my-image.png"
           // src="/images/site/an.png"
           alt="An image showing An"
           width={300}
