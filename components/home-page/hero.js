@@ -16,7 +16,10 @@ export default function Hero() {
       </div>
       <h1>Hi, I&apos;m An</h1>
       <h2>Insurance Broker And Full Stack Web Developer</h2>
-      <p>I blog about property and business insurance</p>
+      <p>
+        Join me on my blogging odyssey as I uncover the essentials of property
+        and business insurance
+      </p>
     </section>
   );
 }
