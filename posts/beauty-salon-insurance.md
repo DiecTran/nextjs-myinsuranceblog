@@ -10,6 +10,8 @@ If you're the owner of a beauty salon or planning to open one soon, ensuring the
 
 ### Understanding Beauty Salon Insurance
 
+![Beauty Salon Insurance](beauty-salon-insurance.png "Beauty Salon Insurance")
+
 Beauty salon insurance is a specialized type of business insurance that is tailored to the unique needs and risks faced by beauty salons and spas. It typically includes a combination of different types of coverage, each designed to address specific risks associated with running a salon business. Here are some of the key types of coverage included in most beauty salon insurance policies:
 
 1. **General Liability Insurance**: This type of insurance provides coverage for third-party bodily injury, property damage, and personal injury claims that may arise from accidents or incidents that occur on your salon premises. It helps cover legal expenses, medical bills, and damages awarded in lawsuits.
@@ -25,3 +27,5 @@ Beauty salon insurance is a specialized type of business insurance that is tailo
 ### Conclusion
 
 Beauty salon insurance is not only a wise investment but also a necessity for protecting your business from unexpected events and liabilities. By securing comprehensive insurance coverage tailored to the specific risks faced by your salon, you can have peace of mind knowing that your business and assets are safeguarded against potential threats. Consult with an experienced insurance agent or broker to assess your salon's insurance needs and find the right coverage options to protect your business's future.
+
+If you have any questions or would like to discuss your beauty salon insurance needs further, please [contact me](/contact) or visit [contact page](/contact).
