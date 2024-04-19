@@ -35,3 +35,5 @@ Perhaps most importantly, tenant insurance provides peace of mind. Knowing that 
 ## Conclusion:
 
 Tenant or renters insurance is a valuable investment for anyone who rents their living space. It provides protection for your personal belongings, liability coverage in case of accidents, and peace of mind knowing that you're financially protected. Whether you're renting an apartment, house, or condominium, tenant insurance is essential for safeguarding your belongings and ensuring you're prepared for unexpected events.
+
+If you have any questions or would like to discuss your beauty salon insurance needs further, please [contact me](/contact) or visit [contact page](/contact).
