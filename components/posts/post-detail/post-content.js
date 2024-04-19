@@ -28,7 +28,7 @@ export default function PostContent(props) {
               src={`/images/posts/${post.slug}/${image.properties.src}`}
               alt={image.alt}
               width={600}
-              height={300}
+              height={600}
             />
           </div>
         );

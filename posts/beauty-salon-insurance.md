@@ -1,6 +1,6 @@
 ---
 title: "Protecting Your Beauty Salon: A Guide to Understanding Insurance"
-date: "2022-10-16"
+date: "2023-10-16"
 image: beauty-salon-insurance.png
 excerpt: Learn about the importance of beauty salon insurance and the key types of coverage to consider for your business.
 isFeatured: true
