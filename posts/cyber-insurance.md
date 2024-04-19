@@ -51,3 +51,5 @@ Cyber risk insurance is essential for businesses of all sizes and industries, in
 ## Conclusion
 
 In today's digital age, the question is not whether your business will face a cyber threat, but when. Cyber insurance serves as a critical component of your risk management strategy, providing financial protection, regulatory compliance support, and peace of mind in an increasingly volatile cyber landscape. By investing in cyber insurance, businesses can safeguard their assets, reputation, and future
+
+If you have any questions or would like to discuss your beauty salon insurance needs further, please [contact me](/contact) or visit [contact page](/contact).
