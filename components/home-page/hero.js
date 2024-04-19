@@ -15,7 +15,9 @@ export default function Hero() {
         />
       </div>
       <h1>Hi, I&apos;m An</h1>
-      <h2>Insurance Broker And Full Stack Web Developer</h2>
+      <h3>Xin chào, Tôi là An </h3>
+      <h3>你 好，我 是 An</h3>
+      <h2>Insurance Broker and Full Stack Web/App Developer</h2>
       <p>
         Join me on my blogging odyssey as I uncover the essentials of property
         and business insurance

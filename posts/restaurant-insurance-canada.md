@@ -1,5 +1,5 @@
 ---
-title: "Understanding Restaurant Insurance"
+title: "The Importance of Restaurant Insurance"
 date: "2022-08-28"
 image: restaurant-insurance-canada.png
 excerpt: Learn about restaurant insurance in Canada and why it's crucial for protecting your establishment.
