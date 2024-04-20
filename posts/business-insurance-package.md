@@ -46,6 +46,14 @@ In the face of unforeseen events or disasters, business insurance ensures contin
 
 Finally, an insurance package tailored to your business provides peace of mind for you and your stakeholders. Knowing that your company is adequately protected against potential risks and liabilities allows you to focus on running and growing your business with confidence and peace of mind.
 
+### Understanding Business Insurance
+
+- **Is it Mandatory by Law to Have Business Insurance?** In some jurisdictions, such as Ontario, business liability coverage is mandatory if you want to work as a contractor for a business. Before signing any contracts, it's crucial to read the fine print and understand what you're covered for.
+
+- **What Business Insurance Do I Need?** The type of insurance you need depends on various factors, including your industry, business operations, and regulatory requirements. Common types of business insurance include general liability, property insurance, workers' compensation, and professional liability insurance.
+
+A broker can help you compare business insurance quotes from various providers to find the best rate and coverage. Consulting with a risk specialist can also help determine the best coverage for any situation that may arise.
+
 ## Conclusion
 
 As a business owner, protecting your company's assets and mitigating risks should be top priorities. By following essential tips for business owners and investing in an insurance package tailored to your business needs, you can safeguard your company's future and ensure its continued success in the face of uncertainty and adversity.
