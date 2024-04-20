@@ -87,6 +87,10 @@ export default function contactForm() {
   return (
     <section className={classes.contact}>
       <h1>How Can I Help You ?</h1>
+      <h2>如果您需要更多幫助，請通過下面的表格與我聯繫</h2>
+      <h2>
+        Nếu bạn cần thêm tư vấn, vui lòng liên hệ với mình qua mẫu dưới đây
+      </h2>
       <form className={classes.form} onSubmit={sendMessageHandler}>
         <div className={classes.controls}>
           <div className={classes.control}>
@@ -110,7 +114,7 @@ export default function contactForm() {
             />
           </div>
           <div className={classes.control}>
-            <label htmlFor="phone">Your Phone Number</label>
+            <label htmlFor="phone">Phone Number</label>
             <input
               type="tel"
               id="phone"

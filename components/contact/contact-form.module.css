@@ -15,6 +15,12 @@
   text-align: left;
 }
 
+.contact h2 {
+  font-size: var(--size-4); /* Adjust the font size as needed */
+  margin: var(--size-4) 0; /* Adjust the margin as needed */
+  text-align: left; /* Align the text to the left */
+}
+
 .form label {
   display: block;
   font-family: "Oswald", sans-serif;
@@ -69,5 +75,9 @@
   .contact h1 {
     font-size: var(--size-16);
     text-align: center;
+  }
+  .contact h2 {
+    font-size: var(--size-6); /* Adjust the font size for larger screens */
+    text-align: center; /* Align the text to the center for larger screens */
   }
 }
