@@ -1,5 +1,5 @@
 ---
-title: "Understanding Tenant or Renters Insurance"
+title: "Tenant or Renters Insurance"
 date: "2022-06-28"
 image: renters-insurance.png
 excerpt: Learn about the importance of tenant or renters insurance and why it's essential for individuals who rent their living space.
